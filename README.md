@@ -71,14 +71,6 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-## 📜 License
-
-This project is licensed under a custom **Non-Commercial Contributor License**.  
-No commercial use or redistribution allowed without explicit permission from the author.  
-See the [LICENSE](./LICENSE) file for full terms.
-
----
-
 ## 🧑‍💻 Developed by
 
 **Riyanshi Verma**  
