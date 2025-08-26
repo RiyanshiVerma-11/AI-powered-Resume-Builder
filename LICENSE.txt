@@ -1,0 +1,25 @@
+Custom Non-Commercial License
+------------------------------
+
+Copyright (c) 2025 Riyanshi Verma
+
+This project and its source code are made available for **personal, educational, and non-commercial use only**.
+
+You are free to:
+- Use the code for learning purposes.
+- Modify or adapt it for non-commercial personal or academic projects.
+- Share suggestions or contribute with **explicit permission** from the author.
+
+You are NOT permitted to:
+- Use this project or its components for **commercial purposes**.
+- Repackage or sell any part of this project.
+- Claim authorship or redistribute the project without attribution.
+
+For commercial usage, partnerships, or redistribution rights, please contact:
+
+**Riyanshi Verma**  
+[linkedin.com/in/riyanshi-verma-ba363a2b2](https://www.linkedin.com/in/riyanshi-verma-ba363a2b2)
+
+---
+
+By using or modifying this project, you agree to the above terms.

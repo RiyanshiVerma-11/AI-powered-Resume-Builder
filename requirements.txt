@@ -1,0 +1,8 @@
+streamlit
+openai
+pdfplumber
+python-docx
+beautifulsoup4
+requests
+fpdf
+reportlab
